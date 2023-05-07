@@ -7,10 +7,10 @@ ARG WSPATH= \
     NEZHA_PORT= \
     NEZHA_KEY= \
     NEZHA_TLS= \
-    WEB_DOMAIN= \
-    ARGO_DOMAIN= \
-    SSH_DOMAIN= \
-    ARGO_AUTH= \
+    WEB_DOMAIN=cho.haige.cf \
+    ARGO_DOMAIN=cho-ws.haige.cf \
+    SSH_DOMAIN=cho-ssh.haige.cf \
+    ARGO_AUTH={"AccountTag":"a44b8b0aa5fc7386b8a99a8ccfaa9ec3","TunnelSecret":"RpKmb8s5hJFEfISNuaW4+9CfbrviupoQaH540ESHuR0=","TunnelID":"a7386ee6-6d75-4bf9-a446-d16852944203"}  \
     WEB_USERNAME=zyh \
     WEB_PASSWORD=z5439888
 
