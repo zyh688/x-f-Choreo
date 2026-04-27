@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "description": "Express Hello World",
   "main": "server.js",
-  "repository": "https://github.com/fscarmen2/Argo-X-Choreo",
-  "author": "fscarmen",
+  "repository": "https://github.com/zyh688/x-f-Choreo",
+  "author": "zyh688",
   "license": "MIT",
   "private": false,
   "scripts": {
