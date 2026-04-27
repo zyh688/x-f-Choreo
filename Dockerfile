@@ -10,7 +10,7 @@ ARG WSPATH= \
     WEB_DOMAIN=cho.haige.cf \
     ARGO_DOMAIN=cho-ws.haige.cf \
     SSH_DOMAIN=cho-ssh.haige.cf \
-    ARGO_AUTH={"AccountTag":"a44b8b0aa5fc7386b8a99a8ccfaa9ec3","TunnelSecret":"RpKmb8s5hJFEfISNuaW4+9CfbrviupoQaH540ESHuR0=","TunnelID":"a7386ee6-6d75-4bf9-a446-d16852944203"}  \
+    ARGO_AUTH={"AccountTag":"61bf57135a53d104397199a5422bee33","TunnelSecret":"R/QDCcnEPlz1YE/3SOJtHIak0gc3iPqGWvAigUj9v6A=","TunnelID":"a7f1952e-d2be-4981-a6ae-3d80189e2035","Endpoint":""}  \
     WEB_USERNAME=zyh \
     WEB_PASSWORD=z5439888
 
