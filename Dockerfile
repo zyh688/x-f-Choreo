@@ -7,12 +7,12 @@ ARG WSPATH= \
     NEZHA_PORT= \
     NEZHA_KEY= \
     NEZHA_TLS= \
-    WEB_DOMAIN=cho.haige.cf \
-    ARGO_DOMAIN=cho-ws.haige.cf \
-    SSH_DOMAIN=cho-ssh.haige.cf \
-    ARGO_AUTH={"AccountTag":"61bf57135a53d104397199a5422bee33","TunnelSecret":"R/QDCcnEPlz1YE/3SOJtHIak0gc3iPqGWvAigUj9v6A=","TunnelID":"a7f1952e-d2be-4981-a6ae-3d80189e2035","Endpoint":""}  \
+    WEB_DOMAIN=cho3.680811.xyz \
+    ARGO_DOMAIN=cho3-ws.680811.xyz \
+    SSH_DOMAIN=cho3-ssh.680811.xyz \
+    ARGO_AUTH={"AccountTag":"61bf57135a53d104397199a5422bee33","TunnelSecret":"fGFgjhdS7NbOZkVbQi/D2wtoQXdixaPGhg0OxdoPuGM=","TunnelID":"e6bb68c4-dc8b-4e87-8b2a-8fbebd70a945","Endpoint":""} \
     WEB_USERNAME=zyh \
-    WEB_PASSWORD=z5439888
+    WEB_PASSWORD=zyh
 
 # 此处不用改，保留即可
 ENV NEZHA_SERVER=$NEZHA_SERVER \
